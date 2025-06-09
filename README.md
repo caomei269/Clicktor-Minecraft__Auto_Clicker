@@ -1,4 +1,4 @@
-# Mouse Connector - Minecraft Auto Clicker Mod
+# Clicktor - Minecraft Auto Clicker Mod
 
 一个用于 Minecraft 1.20.4 的自动连点器模组，基于 Fabric 框架开发。
 
